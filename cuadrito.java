@@ -1,12 +1,12 @@
 import java.util.*;
 public class cuadrito(){
-	public class(){
-		boolean isCenter = false;
-		boolean isCorner = false;
-		boolean isSide = false;
-		String color = "";
+	public cuadrito(){
+		isCenter = false;
+		isCorner = false;
+		isSide = false;
+		color = "";
 	}
-	
+
 	public boolean setCenter(boolean a){
 		isCenter = a;
 	}
