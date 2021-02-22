@@ -1,5 +1,9 @@
 import java.util.*;
 public class cuadrito(){
+	boolean isCenter;
+	boolean isCorner;
+	boolean isSide;
+	String color;
 	public cuadrito(){
 		isCenter = false;
 		isCorner = false;
@@ -31,3 +35,4 @@ public class cuadrito(){
 		return isSide;
 	}	
 }
+
