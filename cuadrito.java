@@ -1,5 +1,5 @@
 import java.util.*;
-enum Color{WHITE,BLUE, RED,GREEN, YELLOW, ORANGE}
+enum Color{WHITE,BLUE, RED,GREEN, YELLOW, ORANGE};
 public class cuadrito(){
 	boolean isCenter;
 	boolean isCorner;
