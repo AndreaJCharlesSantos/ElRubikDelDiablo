@@ -3,12 +3,12 @@ public class cuadrito(){
 	boolean isCenter;
 	boolean isCorner;
 	boolean isSide;
-	String color;
+	Color color;
 	public cuadrito(){
 		isCenter = false;
 		isCorner = false;
 		isSide = false;
-		color = "";
+		color;
 	}
 
 	public boolean setCenter(boolean a){
